@@ -1,0 +1,4 @@
+{"level":"error","message":"Proxy error:","service":"api-gateway","timestamp":"2025-02-19T16:04:45.617Z"}
+{"level":"error","message":"Proxy error:","service":"api-gateway","timestamp":"2025-02-20T10:14:57.845Z"}
+{"level":"error","message":"Proxy error:read ECONNRESET","service":"api-gateway","timestamp":"2025-02-20T10:33:07.159Z"}
+{"level":"error","message":"Proxy error:socket hang up","service":"api-gateway","timestamp":"2025-02-20T10:34:16.259Z"}
